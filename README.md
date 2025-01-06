@@ -1,5 +1,3 @@
-# Music Player 🎵
-
 Proyek ini merupakan hasil belajar dari [FreeCodeCamp](https://www.freecodecamp.org/) sebagai bagian dari kursus **JavaScript Algorithms and Data Structures**. Proyek ini dibuat dengan mengikuti langkah-langkah dan instruksi yang diberikan oleh FreeCodeCamp.
 
 ## ⚠️ Disclaimer
@@ -8,12 +6,6 @@ Proyek ini tidak sepenuhnya merupakan karya orisinal saya. Struktur, konsep, dan
 Jika Anda ingin mencoba membuat proyek serupa, silakan kunjungi [FreeCodeCamp](https://www.freecodecamp.org/) dan ikuti kurikulum mereka.
 
 ---
-
-## 📖 Deskripsi
-Music Player adalah aplikasi sederhana untuk memutar musik. Fitur utamanya meliputi:
-- Play/Pause musik
-- Navigasi antar lagu
-- Tampilan sederhana dan responsif
 
 ### Demo
 [Lihat Demo](https://aglalrizal.github.io/fcc-jsads-a-music-player/)
